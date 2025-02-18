@@ -35,7 +35,7 @@ git clone https://github.com/XPH4N70M/WA_CRASH
 cd WA_CRASHER
 ```
 ```bash
-chmod +x WA_CRASH.py (optional)
+chmod +x WA_CRASH.py
 ```
 ```bash
 python3 WA_CRASH.py
