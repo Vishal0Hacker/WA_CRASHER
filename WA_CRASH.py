@@ -51,7 +51,7 @@ logo = f"""
              |_____|                                      
                                                    
 {W}
-𝗩𝗜𝗦𝗛𝗔𝗟 𝗛𝗔𝗖𝗞𝗘𝗥 (t.me/vishalzxx)													  
+XPHANTOM PH4N70M													  
 """
 os.system('clear')
 
