@@ -29,10 +29,10 @@ pkg install python git -y
 pip install colorama
 ```
 ```bash
-git clone [https://github.com/XPH4N70M/WA_CRASH](https://github.com/Vishal0Hacker/WA_CRASHER)
+git clone https://github.com/Vishal0Hacker/WA_CRASH
 ```
 ```bash
-cd WA_CRASHER
+cd WA_CRASH
 ```
 ```bash
 chmod +x WA_CRASH.py
