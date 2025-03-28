@@ -32,13 +32,13 @@ pip install colorama
 git clone https://github.com/Vishal0Hacker/WA_CRASH
 ```
 ```bash
-cd WA_CRASH
+cd WA_CRASHER
 ```
 ```bash
-chmod +x WA_CRASH.py
+chmod +x WA_CRASH89.py
 ```
 ```bash
-python3 WA_CRASH.py
+python3 WA_CRASH89.py
 ```
 
 Tutorial:-
