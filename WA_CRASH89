@@ -18,7 +18,7 @@
 #OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 #SOFTWARE.
 ###################################
-#  X PHANTOM (PH4N70M)            #
+#  Vishal (@Vishalzxc)            #
 #Project : WA_CRASHER             #
 #Type    : Whatsapp - Crasher     #
 ###################################
@@ -51,7 +51,7 @@ logo = f"""
              |_____|                                      
                                                    
 {W}
-XPHANTOM PH4N70M													  
+VISHAL HACKER													  
 """
 os.system('clear')
 
@@ -102,9 +102,9 @@ def MSG():
 		main()
 	elif YTC == 'N' or YTC == 'n':
 		print("")
-		os.system("xdg-open https://hackerxphantom.blogspot.com/p/join-whatsapp-group.html")
+		os.system("xdg-open https://t.me/Bot_Hacking_Tip")
 		time.sleep(8)
-		os.system("xdg-open https://hackerxphantom.blogspot.com/p/join-whatsapp-group.html")
+		os.system("xdg-open https://t.me/vishalzxx")
 		time.sleep(3)
 		print(W + "\n\n")
 		main()
